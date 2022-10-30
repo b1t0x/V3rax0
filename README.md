@@ -1,3 +1,3 @@
-![1877565-logo](https://user-images.githubusercontent.com/70461429/198888758-de5bedd8-5f44-40a4-88fb-63259f63a9c1.png)
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/70461429/198889066-a8ed9837-9dd1-434e-89bb-311b5290769d.png" height="175px"/></a>
 
-# V3rax0
+<h3 align="center">I'm V3rax0</h3>
