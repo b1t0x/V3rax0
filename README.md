@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Juan Delgado
 #### I am system engineer 
-![I am system engineer ]([https://cdn.pixabay.com/photo/2022/02/03/13/31/skyscrapers-6990425_960_720.jpg](https://user-images.githubusercontent.com/70461429/198889066-a8ed9837-9dd1-434e-89bb-311b5290769d.png))
+![I am system engineer ] (https://user-images.githubusercontent.com/70461429/198889066-a8ed9837-9dd1-434e-89bb-311b5290769d.png)
 
 I am very curious
 
